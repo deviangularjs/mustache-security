@@ -50,18 +50,32 @@ And also this works - thanks [https://twitter.com/mathias @mathias] (be aware th
 
 == Where is my Code? ==
 
-Pentesting a JS MVC application often involves dealing with compressed, minimized and otherwise obfuscated JavaScript. There is no way to find out what happens where, where to set the right breakpoints, how the call stack looks and why the darn thing throws errors instead of showing an alert.
+Pentesting a JS MVC application often involves dealing with compressed, minimized and otherwise obfuscated JavaScript. There is no way to find out what happens where, where to set the right breakpoints, how the call stack looks and why the darn thing throws errors instead of showing an alert. <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training in Chennai">Angularjs Training in Chennai</a>
 
-First of all, one wants to find out, what libraries are being used. Checking the website source doesn't always emit that information - especially if all the !JavaScript files are served from one single compressed ball-of-script. The first step is then to inspect the DOM, look for global variables that tell about the frameworks and plugins in use. Once that is known, it's recommended to grab an uncompressed version of that exact script. Ideally the same minor version that is hopefully still around on some CDN or GitHub repo. 
+First of all, one wants to find out, what libraries are being used. Checking the website source doesn't always emit that information - especially if all the !JavaScript files are served from one single compressed ball-of-script. The first step is then to inspect the DOM, look for global variables that tell about the frameworks and plugins in use. Once that is known, it's recommended to grab an uncompressed version of that exact script. Ideally the same minor version that is hopefully still around on some CDN or GitHub repo.  <a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Training in Chennai">Backbone.JS Training in Chennai</a>
 
-=== Chrome Developer Tools ===
+<a href="http://wisentechnologies.com/it-courses/html-css-javascript-jquery-training.aspx" title="Javascript Training in Chennai">Javascript Training in Chennai</a>
+
+=== Chrome Developer Tools for Backbone.js Training===
 
 Over several months of working with these frameworks and websites, Chrome developer tools turned out to be the most handy and powerful helpers. Most importantly testers can beautify the JavaScript by using the tiny "{}" button in the sources-tab. 
 
-=== JSBeautifier ===
+=== JSBeautifier for Backbonejs Training=== <a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Training in Chennai">Backbone.JS Training in Chennai</a>
 
+<a href="http://javascripttrainingcourses.com/JS/Knockout-JS-Training" title="KnockoutJS Training in Chennai">KnockoutJS Training in Chennai</a>
+<a href="http://javascripttrainingcourses.com/JS/Bootstrap-Course" title="Bootstrap Training in Chennai">Bootstrap Training in Chennai</a>
 Sometimes even Chrome's !JavaScript beautifier cannot help and struggles with compressed, one-line !JavaScript. Bummer. Luckily, the website http://jsbeautifier.com can help. So far, even the crunchiest and most wickedly compressed HTML and JavaScript could be turned into a nice looking, neatly indented representation.
 
 === Closure Compiler ===
+
+Backbone.js Training in Chennai 
+
+Angular.js Training in Chennai 
+
+Node.js Training in Chennai 
+
+Bootstrap Training in Chennai 
+
+JavaScript Training in Chennai , HTML5 Training in Chennai, CSS3 Training in CHennai
 
 TDB
